@@ -6,4 +6,5 @@ Membuat Set Of dimana list atau daftar hanya bisa menampilankan item yang unik (
 <img width="960" height="600" alt="Cuplikan layar 2026-09-24 193804" src="https://github.com/user-attachments/assets/13bf4bd7-894a-46e8-97c7-e19de2c982f9" />
 Membuat Range (Joint To String) atau Rentang angka dari 10 sampai 15
 <img width="960" height="600" alt="Cuplikan layar 2026-09-24 200714" src="https://github.com/user-attachments/assets/ff4282eb-3816-4d20-86e7-7cf6ba30e27f" />
-
+Membuat Range (downTo) urutan terbalik
+<img width="960" height="600" alt="Cuplikan layar 2026-09-24 201615" src="https://github.com/user-attachments/assets/4855912e-9ed5-493b-83aa-86c37c6d8cb2" />
