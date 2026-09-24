@@ -4,4 +4,6 @@ Membuat Read only list dimana list/ daftar hanya bisa di lihat
 <img width="960" height="600" alt="Cuplikan layar 2026-09-24 193128" src="https://github.com/user-attachments/assets/27083f1a-84e2-408c-bed0-a0800b2caa70" />
 Membuat Set Of dimana list atau daftar hanya bisa menampilankan item yang unik (tidak bisa sama)
 <img width="960" height="600" alt="Cuplikan layar 2026-09-24 193804" src="https://github.com/user-attachments/assets/13bf4bd7-894a-46e8-97c7-e19de2c982f9" />
+Membuat Range (Joint To String) atau Rentang angka dari 10 sampai 15
+<img width="960" height="600" alt="Cuplikan layar 2026-09-24 200714" src="https://github.com/user-attachments/assets/ff4282eb-3816-4d20-86e7-7cf6ba30e27f" />
 
